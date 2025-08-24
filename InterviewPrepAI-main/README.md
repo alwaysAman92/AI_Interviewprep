@@ -69,9 +69,6 @@ cd interview-prep-ai
 
 ⚡ Smooth Animations and UI
 
-👨‍💻 Author
-Made with ❤️ by Dhaval Dangar
-
 
 📬 Feedback & Contribution
 Have suggestions or improvements?
